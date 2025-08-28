@@ -1,0 +1,19 @@
+.EmptyTodos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+  color: #888;
+}
+
+.EmptyTodos-icon {
+  margin-bottom: 16px;
+  opacity: 0.5;
+}
+
+.EmptyTodos p {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0;
+}
